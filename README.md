@@ -8,7 +8,8 @@ This repository is the repository for learning C++.
 ## chapter
 ### AtCoder
 #### ABC
- - [ABC336_A](https://atcoder.jp/contests/abc336/submissions/57349896)
+ - [ABC336_A (Long Loong)](https://atcoder.jp/contests/abc336/submissions/57349896)
+ - ABC354_A (Exponential Plant)
 
 ### アルゴ式
 #### 動的計画法（Dynamic Programming）
