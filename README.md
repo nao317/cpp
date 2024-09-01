@@ -8,7 +8,7 @@ This repository is the repository for learning C++.
 ## chapter
 ### AtCoder
 #### ABC
- - ABC336_A
+ - [ABC336_A](https://atcoder.jp/contests/abc336/submissions/57349896)
 
 ### アルゴ式
 #### 動的計画法（Dynamic Programming）
