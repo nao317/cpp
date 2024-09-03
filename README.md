@@ -25,4 +25,10 @@ This repository is the repository for learning C++.
 
 > ### **アルゴリズム中級**
 
+> > #### **計算量削減の工夫**
+
+- **for文のループを減らす**
+
+> > > - [差の最大値](https://algo-method.com/submissions/1492414)
+
 > > #### **動的計画法（Dynamic Programming）**
