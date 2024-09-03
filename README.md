@@ -20,6 +20,7 @@ This repository is the repository for learning C++.
 
 - **配列の全探索**
 > > > 整数Vがあるか
+
 > > #### **ソートの基礎**
 
 > ### **アルゴリズム中級**
