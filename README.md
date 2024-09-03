@@ -19,7 +19,7 @@ This repository is the repository for learning C++.
 > > #### **全探索**
 
 - **配列の全探索**
-> > > - 整数Vがあるか
+> > > - [整数Vがあるか](https://algo-method.com/submissions/1492255)
 
 > > #### **ソートの基礎**
 
