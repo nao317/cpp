@@ -7,19 +7,19 @@ This repository is the repository for learning C++.
 
 ## chapter
 ### AtCoder
-> #### ABC
+> #### **ABC**
 
 > > - [ABC336_A (Long Loong)](https://atcoder.jp/contests/abc336/submissions/57349896)
 > > - [ABC354_A (Exponential Plant)](https://atcoder.jp/contests/abc354/submissions/57373004)
 
 ### アルゴ式
 
-> ### アルゴリズム初級
+> ### **アルゴリズム初級**
 
-> > #### 全探索
+> > #### **全探索**
 
-> > #### ソートの基礎
+> > #### **ソートの基礎**
 
-> ### アルゴリズム中級
+> ### **アルゴリズム中級**
 
-> > #### 動的計画法（Dynamic Programming）
+> > #### **動的計画法（Dynamic Programming）**
