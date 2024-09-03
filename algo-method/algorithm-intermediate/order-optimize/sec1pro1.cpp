@@ -3,28 +3,19 @@
 using namespace std;
 
 int main () {
-    long n;
+    int n;
     cin >> n;
 
-    vector<long> vec(n);
+    vector<int> vec(n);
 
-    for (long k = 0; k < n; k++) {
+    for (int k = 0; k < n; k++) {
         cin >> vec[k];
     }
 
-    for (long i = 0; i < n-1; i++) {
-        for (long j = i+1; j < n; j++) {
-            if (vec[i] > vec[j]) {
-                long empty = vec[i];
-                vec[i] = vec[j];
-                vec[j] = empty;
-            }
-        }
-    }
+    int min = *min_element(vec.begin(),vec.end());
+    int max = *max_element(vec.begin(),vec.end());
 
-    long maximum = vec[n-1] - vec[0];
-
-    cout << maximum << endl;
+    cout << max - min << endl;
 
     return 0;
 
