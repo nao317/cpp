@@ -1,2 +1,2 @@
-# cpp
-Learning and Development for Cpp
+# C/C++
+Learning and Development for C/C++
