@@ -16,6 +16,7 @@ This is the repository for learning C/C++.
 > >
 > > - [ABC336_A (Long Loong)](https://atcoder.jp/contests/abc336/submissions/57349896)
 > > - [ABC354_A (Exponential Plant)](https://atcoder.jp/contests/abc354/submissions/57373004)
+> > - [ABC362_A (Buy a Pen)](https://atcoder.jp/contests/abc362/submissions/57423862)
 
 ### アルゴ式(C++)
 
