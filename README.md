@@ -1,21 +1,23 @@
-## introduction
-This is the repository for learning C++.
+# introduction
+
+This is the repository for learning C/C++.
 
 ## contents
 >
 > - AtCoder (ABC/ARC/AGC/AHC)
-> - アルゴ式 ("アルゴ式 (Algo-shiki)" is the services for learning how to design algorithms) 
+> - アルゴ式 ("アルゴ式 (Algo-shiki)" is the services for learning how to design algorithms)
+> - C言語
 
 ## chapter
 
-### AtCoder
+### AtCoder(C++)
 >
 > #### **ABC**
 >
 > > - [ABC336_A (Long Loong)](https://atcoder.jp/contests/abc336/submissions/57349896)
 > > - [ABC354_A (Exponential Plant)](https://atcoder.jp/contests/abc354/submissions/57373004)
 
-### アルゴ式
+### アルゴ式(C++)
 
 > ### **アルゴリズム初級**
 >
