@@ -20,9 +20,9 @@ This is the repository for learning C++.
 > ### **アルゴリズム初級**
 >
 > > #### **全探索**
-
-- **配列の全探索**
-
+>
+> > - **配列の全探索**
+> >
 > > > - [整数Vがあるか](https://algo-method.com/submissions/1492255)
 > > > - [整数Vが何個あるか](https://algo-method.com/submissions/1493315)
 >
@@ -31,9 +31,9 @@ This is the repository for learning C++.
 > ### **アルゴリズム中級**
 >
 > > #### **計算量削減の工夫**
-
-- **for文のループを減らす**
-
+> >
+> > - **for文のループを減らす**
+> >
 > > > - [差の最大値](https://algo-method.com/submissions/1492414)
 >
 > > #### **動的計画法（Dynamic Programming）**
