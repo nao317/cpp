@@ -1,5 +1,5 @@
 ## introduction
-This repository is the repository for learning C++.
+This is the repository for learning C++.
 
 ## contents
 > - AtCoder (ABC/ARC/AGC/AHC)
