@@ -2,6 +2,8 @@
 
 This is the repository for learning C/C++.
 
+問題にはそれぞれURLを添付しています。問題文はそちらをご参照ください。
+
 ## contents
 >
 > - AtCoder (ABC/ARC/AGC/AHC)
@@ -14,9 +16,9 @@ This is the repository for learning C/C++.
 >
 > #### **ABC**
 > >
-> > - [ABC336_A (Long Loong)](https://atcoder.jp/contests/abc336/submissions/57349896)
-> > - [ABC354_A (Exponential Plant)](https://atcoder.jp/contests/abc354/submissions/57373004)
-> > - [ABC362_A (Buy a Pen)](https://atcoder.jp/contests/abc362/submissions/57423862)
+> > - [ABC336_A (Long Loong)](https://atcoder.jp/contests/abc336/tasks/abc336_a)
+> > - [ABC354_A (Exponential Plant)](https://atcoder.jp/contests/abc354/tasks/abc354_a)
+> > - [ABC362_A (Buy a Pen)](https://atcoder.jp/contests/abc362/tasks/abc362_a)
 
 ### アルゴ式(C++)
 
@@ -26,8 +28,14 @@ This is the repository for learning C/C++.
 > > >
 > > - **配列の全探索**
 > > >
-> > > - [整数Vがあるか](https://algo-method.com/submissions/1492255)
-> > > - [整数Vが何個あるか](https://algo-method.com/submissions/1493315)
+> > > - [整数Vがあるか](https://algo-method.com/tasks/209)
+> > > - [整数Vが何個あるか](https://algo-method.com/tasks/210)
+>
+> > #### **配列**
+> > >
+> > - **はじめに**
+> > >
+> > > - [単発のクエリ](https://algo-method.com/tasks/824)
 >
 > > #### **ソートの基礎**
 > >
@@ -37,6 +45,6 @@ This is the repository for learning C/C++.
 > > >
 > > - **for文のループを減らす**
 > > >
-> > > - [差の最大値](https://algo-method.com/submissions/1492414)
+> > > - [差の最大値](https://algo-method.com/tasks/935hnBh)
 >
 > > #### **動的計画法（Dynamic Programming）**
