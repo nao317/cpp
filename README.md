@@ -36,6 +36,7 @@ This is the repository for learning C/C++.
 > > - **はじめに**
 > > >
 > > > - [単発のクエリ](https://algo-method.com/tasks/824)
+> > > - [クエリに答えるとは](https://algo-method.com/tasks/825)
 >
 > > #### **ソートの基礎**
 > >
