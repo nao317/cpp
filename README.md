@@ -39,6 +39,10 @@ This is the repository for learning C/C++.
 > > > - [クエリに答えるとは](https://algo-method.com/tasks/825)
 >
 > > #### **ソートの基礎**
+> > >
+> > - **ソートアルゴリズム（１）**
+> > >
+> > > - [バブルソート](https://algo-method.com/tasks/439)
 > >
 > ### **アルゴリズム中級**
 > > >
