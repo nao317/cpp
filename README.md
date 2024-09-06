@@ -38,6 +38,10 @@ This is the repository for learning C/C++.
 > > >
 > > > - [単発のクエリ](https://algo-method.com/tasks/824)
 > > > - [クエリに答えるとは](https://algo-method.com/tasks/825)
+> > >
+> > - **配列**
+> > >
+> > > - [N個の値を受け取る](https://algo-method.com/tasks/826)
 >
 > > #### **ソートの基礎**
 > > >
