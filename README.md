@@ -48,6 +48,7 @@ This is the repository for learning C/C++.
 > > - **文字列の配列**
 > > >
 > > > - [〇の個数](https://algo-method.com/courses/f102a001a27ba1cc)
+> > > - [間違い探し](https://algo-method.com/tasks/687rPKt)
 >
 > > #### **ソートの基礎**
 > > >
