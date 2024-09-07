@@ -31,6 +31,7 @@ This is the repository for learning C/C++.
 > > >
 > > > - [整数Vがあるか](https://algo-method.com/tasks/209)
 > > > - [整数Vが何個あるか](https://algo-method.com/tasks/210)
+> > > - [整数Vの場所](https://algo-method.com/tasks/216)
 >
 > > #### **配列**
 > > >
