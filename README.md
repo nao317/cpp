@@ -49,6 +49,7 @@ This is the repository for learning C/C++.
 > > >
 > > > - [〇の個数](https://algo-method.com/courses/f102a001a27ba1cc)
 > > > - [間違い探し](https://algo-method.com/tasks/687rPKt)
+> > > - [地図の切り取り](https://algo-method.com/tasks/6726xTm)
 >
 > > #### **ソートの基礎**
 > > >
