@@ -18,7 +18,7 @@ void cutout(vector<string> &vec, vector<string> &result, int x, int y) // 該当
     for (int a = 0; a < 3; a++) // 該当箇所を切り出す
     {
         string str = vec[upper + a]; // 一旦文字列に置き換える
-        string cut = str.substr(left, left + 2); // ３文字分leftで求めたインデックスから切り取る
+        string cut = str.substr(left,3); // ３文字分leftで求めたインデックスから切り取る
         result[a] = cut; // 切り取った文字列をresult[a]に代入
     }
 }
