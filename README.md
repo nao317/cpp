@@ -56,6 +56,9 @@ This is the repository for learning C/C++.
 > > - **ソートアルゴリズム（１）**
 > > >
 > > > - [バブルソート](https://algo-method.com/tasks/439)
+> > > - [選択ソート](https://algo-method.com/tasks/440)
+> > > - [挿入ソート](https://algo-method.com/tasks/441)
+> > > - [バゲットソート](https://algo-method.com/tasks/447)
 > >
 > ### **アルゴリズム中級**
 > > >
