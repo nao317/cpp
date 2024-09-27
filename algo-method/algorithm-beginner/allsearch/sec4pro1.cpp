@@ -17,6 +17,7 @@ int main()
     {
 
         cin >> vec1[i];
+        
     }
 
     for (int i = 0; i < m; i++)
