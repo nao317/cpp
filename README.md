@@ -8,6 +8,7 @@ This is the repository for learning C/C++.
 >
 > - AtCoder (ABC/ARC/AGC/AHC)
 > - アルゴ式 ("アルゴ式 (Algo-shiki)" is the services for learning how to design algorithms)
+> - その他イベント
 > - C言語
 
 ## chapter
@@ -16,6 +17,8 @@ This is the repository for learning C/C++.
 >
 > #### **ABC**
 > >
+> > - [ABC001_B (視程の通報)](https://atcoder.jp/contests/abc001/tasks/abc001_2)
+> > - [ABC003_B (AtCoderトランプ)](https://atcoder.jp/contests/abc003/tasks/abc003_2)
 > > - [ABC203_B (AtCoder_Condominium)](https://atcoder.jp/contests/abc203/tasks/abc203_b)
 > > - [ABC336_A (Long Loong)](https://atcoder.jp/contests/abc336/tasks/abc336_a)
 > > - [ABC354_A (Exponential Plant)](https://atcoder.jp/contests/abc354/tasks/abc354_a)
@@ -69,3 +72,15 @@ This is the repository for learning C/C++.
 > > > - [差の最大値](https://algo-method.com/tasks/935hnBh)
 >
 > > #### **動的計画法（Dynamic Programming）**
+> > >
+> > - **一次元マス目上の動的計画法**
+> > >
+> > > - [数値の例](https://algo-method.com/tasks/302)
+
+### その他イベント
+>
+> #### ゆるふわコン（2024）
+
+### C言語
+>
+> #### データ構造とアルゴリズム
