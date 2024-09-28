@@ -13,12 +13,12 @@ This is the repository for learning C/C++.
 
 ## chapter
 
-### AtCoder(C++)
+### AtCoder(C++) (/atcoder/)
 >
-> #### **ABC**
+> #### **ABC** (/atcoder/abc/)
 > >
-> > - [ABC001_B (視程の通報)](https://atcoder.jp/contests/abc001/tasks/abc001_2)
-> > - [ABC003_B (AtCoderトランプ)](https://atcoder.jp/contests/abc003/tasks/abc003_2)
+> > - [ABC001_B (視程の通報)](https://atcoder.jp/contests/abc001/tasks/abc001_2) (/atcoder/abc/abc001_b)
+> > - [ABC003_B (AtCoderトランプ)](https://atcoder.jp/contests/abc003/tasks/abc003_2) (/atcoder/abc/abc003_b)
 > > - [ABC203_B (AtCoder_Condominium)](https://atcoder.jp/contests/abc203/tasks/abc203_b)
 > > - [ABC336_A (Long Loong)](https://atcoder.jp/contests/abc336/tasks/abc336_a)
 > > - [ABC354_A (Exponential Plant)](https://atcoder.jp/contests/abc354/tasks/abc354_a)
