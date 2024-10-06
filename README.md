@@ -1,9 +1,12 @@
-<<<<<<< HEAD
+
 # C/C++
+
 Learning and Development for C/C++
 
 **All of the files have been pushed to the master branch.**
+
 =======
+
 # introduction
 
 This is the repository for learning C/C++.
@@ -90,4 +93,4 @@ This is the repository for learning C/C++.
 ### **C言語**
 >
 > #### **データ構造とアルゴリズム**
-> 
+>
