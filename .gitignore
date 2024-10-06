@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -30,3 +31,9 @@
 *.exe
 *.out
 *.app
+=======
+c_cpp_properties.json
+launch.json
+settings.json
+test
+>>>>>>> master
