@@ -1,6 +1,6 @@
 // 視程の通報
 
-#include <iostream>
+#include <iostream> // input and output
 using namespace std;
 
 int main()
