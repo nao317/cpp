@@ -98,7 +98,7 @@ This is the repository for learning C/C++.
 >
 > > ##### **第1回講義**
 > > >
-> > > prog0104 (/clang/datastructure_algorithm/prog0104.c)
-> > > prog0107 (/clang/datastructure_algorithm/prog0107.c)
+> > > - prog0104 (/clang/datastructure_algorithm/prog0104.c)
+> > > - prog0107 (/clang/datastructure_algorithm/prog0107.c)
 
 
