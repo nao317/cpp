@@ -26,12 +26,12 @@ This is the repository for learning C/C++.
 >
 > #### **ABC** (/atcoder/abc/)
 > >
-> > - [ABC001_B (視程の通報)](https://atcoder.jp/contests/abc001/tasks/abc001_2) (/atcoder/abc/abc001_b)
-> > - [ABC003_B (AtCoderトランプ)](https://atcoder.jp/contests/abc003/tasks/abc003_2) (/atcoder/abc/abc003_b.cpp)
-> > - [ABC203_B (AtCoder_Condominium)](https://atcoder.jp/contests/abc203/tasks/abc203_b) (/atcoder/abc/abc203_b.cpp)
-> > - [ABC336_A (Long Loong)](https://atcoder.jp/contests/abc336/tasks/abc336_a) (/atcoder/abc/abc336_a.cpp)
-> > - [ABC354_A (Exponential Plant)](https://atcoder.jp/contests/abc354/tasks/abc354_a) (/atcoder/abc/abc354_a.cpp)
-> > - [ABC362_A (Buy a Pen)](https://atcoder.jp/contests/abc362/tasks/abc362_a) (/atcoder/abc/abc362_a.cpp)
+> > - [ABC001_B (視程の通報)](https://atcoder.jp/contests/abc001/tasks/abc001_2)
+> > - [ABC003_B (AtCoderトランプ)](https://atcoder.jp/contests/abc003/tasks/abc003_2)
+> > - [ABC203_B (AtCoder_Condominium)](https://atcoder.jp/contests/abc203/tasks/abc203_b)
+> > - [ABC336_A (Long Loong)](https://atcoder.jp/contests/abc336/tasks/abc336_a)
+> > - [ABC354_A (Exponential Plant)](https://atcoder.jp/contests/abc354/tasks/abc354_a)
+> > - [ABC362_A (Buy a Pen)](https://atcoder.jp/contests/abc362/tasks/abc362_a)
 >
 > #### **アルゴリズムの鉄則**(/atcoder/tessoku)
 

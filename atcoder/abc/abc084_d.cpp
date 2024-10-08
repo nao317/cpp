@@ -21,9 +21,12 @@ void eratosthenes() int main()
         }
         for (int j = i * 2; j < n; j += i)
         {
-            isprime[j] = 0;
+            isprime[j] = 0; // 素数以外の数をマーク
         }
     }
 
-    vector<int> a(n,0)
+    vector<int> a(n,0);
+    vector<int> sum(n+1, 0);
+
+    
 }
