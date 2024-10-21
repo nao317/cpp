@@ -16,7 +16,7 @@ int partition(int d[], int left, int right)
     
   i = left; j = right-1;
   while(i <= j){
-    while(i <= j && d[i] <= pivot)
+    while(d[i] < pivot)
       i++;
     while(i <= j && d[j] >= pivot)
       j--;
