@@ -13,10 +13,12 @@ struct POINT2D_EX
 void read_point(struct POINT2D_EX po[])
 {
   FILE *file = fopen("data2.txt", "r");
-  int repeat = 0;
-  while(fscanf(file, &d, &repeat) == 1) {
-    po[repeat] = fscanf(file, &d, &repeat);
-    repeat++;
+  if (file == NULL) {
+    printf("you cannot open the file.\n");
+    exit(1);
+  }
+  for (int i = 0; i < N; i++) {
+    fscanf(file, "%lf %lf", &po[i].x, &po[i].y);
   }
   fclose(file);
 }
