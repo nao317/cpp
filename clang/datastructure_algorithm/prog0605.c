@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-struct PRICE {
+struct PRICE
+{
     int code;
     char *name;
     int price;
@@ -10,7 +11,29 @@ struct PRICE {
 
 int binary_search(int key, struct PRICE data[], int n)
 {
-    
+    int left = 0;
+    int right = n - 1;
+    int mid;
+
+    while (left <= right)
+    {
+        mid = (left + right) / 2;
+        if (data[mid].code == key)
+        {
+            return mid;
+        }
+        if (data[mid].code > key)
+        {
+            right = mid - 1;
+        }
+        else
+        {
+            left = mid + 1;
+        }
+    }
+
+    return -1;
+
 }
 
 int main(void)
@@ -23,15 +46,17 @@ int main(void)
         {1004, "ぶどう", 190},
         {1005, "スイカ", 700},
         {1006, "イチゴ", 300},
-        {1007, "さくらんぼ", 250}
-    };
+        {1007, "さくらんぼ", 250}};
     int x, found;
 
     scanf("%d", &x);
     found = binary_search(x, data, 8);
-    if( found >= 0 ){
+    if (found >= 0)
+    {
         printf("%s は %d 円です\n", data[found].name, data[found].price);
-    } else {
+    }
+    else
+    {
         printf("%d は見つかりませんでした\n", x);
     }
     return 0;
