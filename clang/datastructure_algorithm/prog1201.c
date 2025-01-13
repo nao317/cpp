@@ -38,6 +38,7 @@ struct LIST *search(int n)
             temp = temp->next;
         }
     }
+    return NULL;
 }
 
 void print(void)
