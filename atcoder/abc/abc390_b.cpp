@@ -1,28 +1,27 @@
+/* Geometric Sequence */
+
 #include <iostream>
 #include <vector>
-#include <cmath>
+
 using namespace std;
+
 int main() {
     int n;
     cin >> n;
-    vector<int> list(n);
-    for (int i = 0; i < n; i++) {
-        cin >> list[i];
-    }
-    const double epsilon = 1e-9;
-    vector<double> time(n-1);
+
     bool boolean = true;
-    for (int i = 1; i < n; i++) {
-        double div = list[i] / (double)list[i-1];
-        time[i-1] = div;
+    vector<long long> vec(n);
+
+    for (int i = 0; i < n; i++) {
+        cin >> vec[i];
     }
-    double init = list[1] / (double)list[0];
-    for (int i = 0; i < n-1; i++) {
-        if (abs(time[i] - init) > epsilon) {
+
+    for (int i = 0; i < n-2; i++) {
+        if (vec[i+1] * vec[i+1] != vec[i] * vec[i+2]) {
             boolean = false;
-            break;
         }
     }
+
     if (boolean) {
         cout << "Yes" << endl;
     } else {
@@ -30,5 +29,4 @@ int main() {
     }
 
     return 0;
-
 }
