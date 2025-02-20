@@ -81,8 +81,8 @@ int main(void)
     } else if ( (data = atoi(buf)) > 0) { /* 0以上の数字は、enqueueとする */
       enqueue( data );
       if (queue[QUEUE_SIZE] != -1) { /* テスト用 */
-	printf("プログラムのエラーです\n");
-	exit(0);
+	      printf("プログラムのエラーです\n");
+	      exit(0);
       }
     } else {
       printf("入力間違い: %s\n", buf);
