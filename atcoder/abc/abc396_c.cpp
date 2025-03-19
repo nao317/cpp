@@ -29,7 +29,7 @@ int main(void) {
     long long sum1 = 0;
     long long sum2 = 0;
     for (long i = 0; i < limit1; i++) {
-        if (vec1[i] > 0) {
+        if () {
             sum1 += vec1[i];
         }
     }
