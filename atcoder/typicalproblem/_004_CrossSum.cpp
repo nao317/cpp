@@ -13,7 +13,7 @@ int main(void) {
     int h, w; // h, wは行と列
     cin >> h >> w; // h, wにそれぞれ入力
 
-    vector<vector<long>> array(h, vector<long>(w)); // 二次元配列 array を宣言
+    vector<vector<int>> array(h, vector<int>(w)); // 二次元配列 array を宣言
 
     // 配列 array に入力する
     for (int i = 0; i < h; i++) {
@@ -24,34 +24,27 @@ int main(void) {
         }
     }
 
-    vector<vector<long>> matsum(h, vector<long>(w));
+    vector<int> vert(h, 0); // 垂直方向（y軸）
+    vector<int> horiz(w, 0); // 水平方向（x軸）
 
-    // 和をとって配列 matsum に代入
     for (int i = 0; i < h; i++) {
-        // i 行目を見る
         for (int j = 0; j < w; j++) {
-            // j 列目を見る
-            int vert = 0; // 垂直方向の要素をカウントする
-            for (int k = 0; k < h; k++) {
-                vert += array[k][j];
-            }
-            int horiz = 0; // 水平方向の要素をカウントする
-            horiz = accumulate(array[i].begin(), array[i].end(), 0); // 初期値0としてイテレータを指定して和を求める
-            
-            matsum[i][j] = vert + horiz - array[i][j]; // 重複分を消しこんだ和をi,jに代入
-
+            // x成分とy成分に分けて足しこむ
+            vert[i] += array[i][j]; // 垂直方向
+            horiz[j] += array[i][j]; // 水平方向
         }
     }
 
-    // 解答を出力
+    // 計算結果の出力
     for (int i = 0; i < h; i++) {
         for (int j = 0; j < w; j++) {
-            cout << matsum[i][j]; // matsum(i, j)を出力
+            cout << vert[i] + horiz[j] - array[i][j]; // 重複分を除いた和を出力
             if (j != w - 1) {
-                cout << " "; // 右端でないときスペースを出力
+                cout << " "; // 右端でなければスペースを出力
             }
         }
-        cout << endl; // 右端のとき改行
+        // 右端まで来たので改行を出力
+        cout << endl;
     }
 
     return 0; // プログラムの終了
